@@ -13,6 +13,7 @@ def hello_world():
 
 
 
+
 #Buyer routes
 @app.route("/signup", methods = ['POST'])
 def signUp():
